@@ -1,0 +1,43 @@
+html, body {
+    background-color: rgb(0, 0, 0);
+}
+
+
+/* font */
+h1 {
+    font: 50px verdana normal;
+    color: white;
+}
+
+h2 {
+    font: 42px verdana normal;
+    color: white;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+    display: block;
+    margin-bottom: 20px;
+}
+
+span {
+    color: gray;
+}
+
+footer{
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+/* container */
+div {
+    text-align: center;
+}
+
+/* media */
+img {
+    margin-top: 20px;
+}
+
+
